@@ -31,4 +31,4 @@ make
 ```
 
 ## My part
-This was a group project. I was responsible for the route selection system and design
+This was a group project. I was responsible for the route selection system and design.
