@@ -5,7 +5,7 @@ A C console program that plans a visit through the booths at an Open House, pick
 
 ## Features
 
-- Stores booths, their positions and opening times (admin side saves them in .dat file)
+- Stores booths, their positions and opening times (admin side saves them in `oh.dat` file)
 - Finds the shortest path between booths (`path.h`)
 - Chooses the set of booths with the highest total preference score whose times don't overlap, using weighted interval scheduling with dynamic programming (`interval.h`)
 - Suggests the top 3 plans
